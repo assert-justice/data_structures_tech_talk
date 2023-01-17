@@ -1,0 +1,15 @@
+{
+  "name": "nodes_and_graphs",
+  "version": "1.0.0",
+  "description": "Silly, don't do this.\r Lots of obnoxious edge cases.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
