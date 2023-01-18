@@ -60,6 +60,7 @@ class List{
         return res.join(', ');
     }
     length(){
+        return 0
         let len = 0;
         // let current = this.head;
         // while(current){

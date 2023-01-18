@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "jest",
-    "waddle": "node src/waddle.js"
+    "waddle": "node src/waddle.js",
+    "watch": "node src/waddle.js --watch"
   },
   "keywords": [],
   "author": "",
