@@ -4,7 +4,8 @@
   "description": "Silly, don't do this.\r Lots of obnoxious edge cases.",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "waddle": "node src/waddle.js"
   },
   "keywords": [],
   "author": "",
