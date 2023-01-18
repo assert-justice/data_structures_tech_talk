@@ -10,15 +10,17 @@ WISHLIST
 - get the index of a value in the array or -1 if it is absent.
 - get the length of a list.
 - get a string representation of a list.
-- split a list into two by an index.
 - concatenate two lists.
+- split a list into two by an index.
+- reverse a linked list...
 - bounds check provided indices
 - spark joy
 */
 
-const ranking = new List();
-ranking.addFirst('scary');
-ranking.addFirst('sporty');
-ranking.addFirst('posh');
-ranking.addLast('ginger');
+const ranking = new List(spices);
+ranking.reverse();
+// ranking.addFirst('scary');
+// ranking.addFirst('sporty');
+// ranking.addFirst('posh');
+// ranking.addLast('ginger');
 console.log(ranking.toString());
